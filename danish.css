@@ -1,0 +1,143 @@
+*{
+	font-family:poppins;
+	
+	
+}
+html{
+	scroll-behavior:smooth;
+}
+
+.bg-light{
+	background-color: transparent !important;
+}
+.nav-item{
+	font-size:18px;
+	color:white;
+	padding:0px 15px;
+	text-transform:uppercase;
+	}
+.navbar-light .navbar-brand{
+	color:#fff;
+}
+
+.navbar-light .navbar-brand{
+	color:white;
+}
+.carousel-item{
+
+	
+}
+
+/* second css */
+.card-img-top{
+	 transition: transform .5s;
+	 
+}
+.card-img-top:hover {
+  transform: scale(1.1);
+}
+.secndb-box{
+	font-size:28px;
+	color:white;
+	padding-top:40px;
+	padding-bottom:0px;
+	letter-spacing:1px;
+}
+
+.Becndb-box{
+	font-size:28px;
+	color:white;
+	padding-top:10px;
+	padding-bottom:0px;
+	letter-spacing:1px;
+}
+
+/* Third section */
+
+.my-button{
+	width:320px;
+	height:45px;
+	background-color:transparent;
+	border:2px solid white;
+	color:white;
+	border-radius:5px;
+	font-size:18px;
+}
+
+
+/* newsletter form*/
+.neswletter-form{
+	height:57px;
+	width:350px;
+	padding-left:15px;
+	font-size:21px;
+	background-color:transparent;
+	border:1px solid gray;
+	color:white;
+	border-radius:5px;
+	margin-bottom:40px;
+}
+.newsletter-btn{
+	background-color:#F5C518;
+	height:57px;
+	width:180px;
+	font-size:21px;
+	color:white;
+	margin-left:7px;
+	margin-top:-8px;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only and (max-width: 850px){
+	.my-button{
+	width:320 px;
+	height: 15 px;
+	background-color:transparent;
+	border:2 px solid white;
+	color:white ;
+	border-radius:5 px;
+	font-size:18 px;
+}
+}
+
